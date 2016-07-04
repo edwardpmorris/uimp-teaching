@@ -38,11 +38,10 @@ knit        : slidify::knit2slides
 
 --- .class1 #id1 bg:black;
 
-
-<iframe src="https://www.youtube.com/embed/gF9UlTYR5d0?autoplay=1;controls=0&amp;showinfo=0&amp;showinfo=0&amp;rel=0" width="854" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://stuffin.space/" width="854" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <div style="position: absolute; left: 200px; top:625px; z-index:10; font-size:14px">
-    <p>https://youtu.be/gF9UlTYR5d0</p>
+    <p>James Yoder - http://stuffin.space/</p>
 </div>
 
 --- .class1 #id1 bg:black;
@@ -303,6 +302,37 @@ Active radar (SAR):
 
 + [Moreira, A., Prats-Iraola, P., Younis, M., Krieger, G., Hajnsek, I., & Papathanassiou, K. P. (2013). A tutorial on synthetic aperture radar. Geoscience and Remote Sensing Magazine, IEEE, 1(1), 6-43.](http://elib.dlr.de/82313/1/SAR-Tutorial-March-2013.pdf)
 + [SAREDU](https://saredu.dlr.de/); full open-access course on SAR by [DLR](http://www.dlr.de)
+
+--- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
+## Wetland applications
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Inundation and hydroperiod
+
++ EBD
++ SAR
++ EcoPotential
+
+--- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Impact of vegetation on coastal flood risk
+
+*** =left
+
+<div>
+<pw><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool"><img alt="misafe_educational_diagram.png" src="assets/img/misafe_educational_diagram.png" width=400px style="margin:10px 0px"> </a>
+<br><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool">Science behind MI-SAFE tool - FAST project</a>.</pw>
+</div>
+
+*** =right
+
+
+
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Impact of vegetation on coastal flood risk
+
++ FAST
++ MI-SAFE
 
 --- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
 ## How to access remote sensing data

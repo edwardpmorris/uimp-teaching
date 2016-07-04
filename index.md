@@ -38,11 +38,10 @@ knit        : slidify::knit2slides
 
 --- .class1 #id1 bg:black;
 
-
-<iframe src="https://www.youtube.com/embed/gF9UlTYR5d0?autoplay=1;controls=0&amp;showinfo=0&amp;showinfo=0&amp;rel=0" width="854" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://stuffin.space/" width="854" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <div style="position: absolute; left: 200px; top:625px; z-index:10; font-size:14px">
-    <p>https://youtu.be/gF9UlTYR5d0</p>
+    <p>James Yoder - http://stuffin.space/</p>
 </div>
 
 --- .class1 #id1 bg:black;
@@ -305,6 +304,37 @@ Active radar (SAR):
 + [SAREDU](https://saredu.dlr.de/); full open-access course on SAR by [DLR](http://www.dlr.de)
 
 --- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
+## Wetland applications
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Inundation and hydroperiod
+
++ EBD
++ SAR
++ EcoPotential
+
+--- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Impact of vegetation on coastal flood risk
+
+*** =left
+
+<div>
+<pw><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool"><img alt="misafe_educational_diagram.png" src="assets/img/misafe_educational_diagram.png" width=400px style="margin:10px 0px"> </a>
+<br><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool">Science behind MI-SAFE tool - FAST project</a>.</pw>
+</div>
+
+*** =right
+
+
+
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Impact of vegetation on coastal flood risk
+
++ FAST
++ MI-SAFE
+
+--- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
 ## How to access remote sensing data
 
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
@@ -315,9 +345,85 @@ Active radar (SAR):
 ## Loading required package: knitr
 ```
 
-```
-## Error in eval(expr, envir, enclos): could not find function "kable"
-```
+<table>
+<caption>Some earth observation satellites with open access data, based on <a href=http://wiki.landscapetoolbox.org/doku.php/remote_sensor_types:home>wiki.landscapetoolbox.org</a>. *C=Color, E=Elevation, H=Hyperspectral, M=Multispectral, P=Panchromatic, R=Syntheric Aperature Radar</caption>
+ <thead>
+  <tr>
+   <th> Name </th>
+   <th> Abbreviation </th>
+   <th> Resolution (m) </th>
+   <th> Availability </th>
+   <th> Return Interval </th>
+   <th> Type* </th>
+   <th> Platform </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td> Landsat Thematic Mapper 5 </td>
+   <td> L5-TM </td>
+   <td> 30,60 </td>
+   <td> 1984 to 2013 </td>
+   <td> 16 days </td>
+   <td> M </td>
+   <td> Satellite </td>
+  </tr>
+  <tr>
+   <td> Landsat Enhanced Thematic Mapper 7 </td>
+   <td> L7-ETM </td>
+   <td> 15,30,60 </td>
+   <td> 1995 to 2003 </td>
+   <td> 16 days </td>
+   <td> P,M </td>
+   <td> Satellite </td>
+  </tr>
+  <tr>
+   <td> Moderate-resolution Imaging Spectroradiometer </td>
+   <td> MODIS </td>
+   <td> 250,500,1000 </td>
+   <td> 2000 to present </td>
+   <td> Daily </td>
+   <td> M </td>
+   <td> Satellite </td>
+  </tr>
+  <tr>
+   <td> Medium Resolution Imaging Spectrometer </td>
+   <td> ENVISAT-MERIS </td>
+   <td> 300 </td>
+   <td> 2002 to present </td>
+   <td> 3 days </td>
+   <td> M </td>
+   <td> Satellite </td>
+  </tr>
+  <tr>
+   <td> Landsat Data Continuity Mission (Landsat 8) </td>
+   <td> L8-OLI </td>
+   <td> 15,30,100 </td>
+   <td> 2013 to present </td>
+   <td> 16 days </td>
+   <td> P,M </td>
+   <td> Satellite </td>
+  </tr>
+  <tr>
+   <td> Copernicus Sentinel-1A </td>
+   <td> S-1A </td>
+   <td> 4,10,25,40 </td>
+   <td> 2015 to present </td>
+   <td> 12 (6) days </td>
+   <td> R </td>
+   <td> Satellite </td>
+  </tr>
+  <tr>
+   <td> Copernicus Sentinel-2A </td>
+   <td> S-2A </td>
+   <td> 10,20,60 </td>
+   <td> 2015 to present </td>
+   <td> 12 (6) days </td>
+   <td> M </td>
+   <td> Satellite </td>
+  </tr>
+</tbody>
+</table>
 
 
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
