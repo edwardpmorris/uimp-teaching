@@ -1,0 +1,32 @@
+Name,Abbreviation,Resolution (m),Availability,Return Interval,Type*,Platform
+Moderate-resolution Imaging Spectroradiometer,MODIS,"250,500,1000",2000 to present,Daily,M,Satellite
+Airborne Visible/Infrared Imaging Spectometer,AVIRIS,"5,20",1998 to present,On demand,H,Aircraft
+Advanced Spaceborne Thermal Emission and Reflection Radiometer,ASTER,"15,30,90",2000 to present,On demand,M,Satellite
+Landsat Thematic Mapper 5,TM5,"30,60",1984 to 2013,16 days,M,Satellite
+Landsat Enhanced Thematic Mapper 7,TM7,"15,30,60",1995 to 2003,16 days,"P,M",Satellite
+Landsat Data Continuity Mission (Landsat 8),LDCM,"15,30,100",2013 to present,16 days,"P,M",Satellite
+Satellite Pour l'Observation de la Terre 5,SPOT5,"2.5,10",2002 to present,1 to 4 days,"P,M",Satellite
+Satellite Pour l'Observation de la Terre 1-4,SPOT1-4,20,1986 to present,1 to 4 days,"P,M",Satellite
+Satellite Pour l'Observation de la Terre Vegetation,SPOT Vegetation,1150,1998 to present,daily,M,Satellite
+RapidEye,RapidEye,5,2008 to present,Daily,M,Satellite
+Quickbird,Quickbird,"0.8,2.5",2001 to present,1 to 3.5 days,"P,M",Satellite
+OrbView-2,OrbView-2,1100,1997 to present,Daily,M,Satellite
+Multi-angle Imaging SpectroRadiometer,MISR,275,2000 to present,9 days,M,Satellite
+Medium Resolution Imaging Spectrometer,ENVISAT-MERIS,300,2002 to present,3 days,M,Satellite
+Landsat Multi-spectral Scanner,MSS,80,1972 to 1997,18 days,M,Satellite
+Ikonos,IKONOS,"0.9,4",2001 to present,3 days,"P,M",Satellite
+GeoEye-1,GeoEye-1,".41,1.65",2008 to present,3 days,"P,M",Satellite
+FORMOSAT-2,FORMOSAT-2,"2,8",2004 to present,Daily,"P,M",Satellite
+Color-infrared Aerial Photography,CIR,1,variable,On demand,M,Aircraft
+Color Aerial Photography,Photo,1,variable,On demand,C,Aircraft
+Worldview-1,Worldview-1,0.5,2007 to present,1.7 to 4.6 days,P,Satellite
+Radarsat-2,Radarsat-2,3 to 100,2008 to present,On demand,R,Satellite
+Radarsat-1,Radarsat-1,8 to 100,1995 to present,4 to 6 days,R,Satellite
+Panchromatic Aerial Photography,B/W Photo,1,variable,On demand,P,Aircraft
+Advanced Synthetic Aperature Radar,ENVISAT-ASAR,"30,150,1000",2002 to present,3 days,R,Satellite
+Worldview-2,Worldview-2,"0.42,1.8",2009 to present,1.1 days,"P,M",Satellite
+Light Detection and Ranging,LIDAR,variable,variable,On demand,E,Aircraft
+Unmanned Aircraft Systems,"UAS, UAV",variable,variable,On demand,"C,M",Aircraft
+Advanced Very-High Resolution Radiometer,AVHRR,1.1km,1981 to present,twice daily,M,Satellite
+Compact High Resolution Imaging Spectrometer,CHRIS,"18,36",2001 to present,7 days,H,Satellite
+AVNIR-2 - Advanced Visible and Near Infrared Radiometer type 2,AVNIR-2,10,2004 to 2011,46 days,M,Satellite
