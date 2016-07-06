@@ -306,12 +306,40 @@ Active radar (SAR):
 --- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
 ## Wetland applications
 
---- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+
+--- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Inundation and hydroperiod
 
-+ EBD
-+ SAR
-+ EcoPotential
+*** =right
++ <pw><a href="http://www.ebd.csic.es/web/last/inicio"><img alt="mean-hydroperiod-1976-2014_donana_last-ebd.png" src="assets/img/Logo LAST.gif" width=400px style="margin:10px 0px"> </a>
++ Long-term hydroperiods, turbidity
++ NDVI, habitat mapping, invasive species
++ Calibration/Validation activities, UAVs
++ [EcoPotential](http://www.ecopotential-project.eu/) - H2020 project improving future ecosystem benefits through earth observations
+
+*** =left
+<div>
+<pw><a href="http://www.ebd.csic.es/ricardo/publi/Globwetland1.pdf"><img alt="mean-hydroperiod-1976-2014_donana_last-ebd.png" src="assets/img/mean-hydroperiod-1976-2014_donana_last-ebd.png" width=400px style="margin:10px 0px"> </a>
+<br><a href="http://www.ebd.csic.es/ricardo/publi/Globwetland1.pdf">Díaz-Delgado et al. 2006</a>.</pw>
+</div>
+
+--- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Inundation and hydroperiod
+
+*** =right
+<div>
+<pw><a href="http://www.tdx.cat/handle/10803/145064"><img alt="flood_mapping_sar.png" src="assets/img/flood_mapping_sar.png" width=500px style="margin:10px 0px"> </a>
+<br><a href="http://www.tdx.cat/handle/10803/145064">Spaceborne SAR imagery for monitoring the inundation in the Doñana wetlands - Belén Martí Cardona</a>.</pw>
+</div>
+
+*** =left
+
++ <pw><a href="http://www.upc.edu/"><img alt="www.tdx.cat.jpeg" src="assets/img/www.tdx.cat.jpeg" width=200px style="margin:10px 0px"> </a>
++ C-band ASAR
++ Specialised terrain based filtering techniques
++ Now Sentinel 1 available!
++ See [special issue on Remote Sensing in Wetlands](http://www.mdpi.com/journal/remotesensing/special_issues/wetland)
+
 
 --- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Impact of vegetation on coastal flood risk
