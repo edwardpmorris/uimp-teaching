@@ -38,11 +38,14 @@ knit        : slidify::knit2slides
 
 --- .class1 #id1 bg:black;
 
-<iframe src="http://stuffin.space/" width="854" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<!--
+ONLY HTTPS SITES NOW WORK ON GH-PAGES
+<iframe src="http://stuffin.space/" width="854" height="480" frameborder="-1" allowfullscreen></iframe>
+-->
+<div>
+<pw><a href="http://stuffin.space/"><img alt="stuff-in-space.png" width=100% src="assets/img/stuff-in-space.png"></a><br>"<a href="http://stuffin.space/">Stuff in Space</a>" by James Yoder.</pw>
+</div> 
 
-<div style="position: absolute; left: 200px; top:625px; z-index:10; font-size:14px">
-    <p>James Yoder - http://stuffin.space/</p>
-</div>
 
 --- .class1 #id1 bg:black;
 
@@ -309,7 +312,7 @@ Active radar (SAR):
 
 --- .class1 #id5
 ## Copernicus Services
-<iframe width="560" height="315" src="http://www.copernicus.eu/main/services" frameborder="-1" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.copernicus.eu/main/services" frameborder="-1" allowfullscreen></iframe>
 
 --- .class1 #id5
 ## Copernicus - Sentinel Online
@@ -324,7 +327,7 @@ Active radar (SAR):
 
 --- .class1 #id5
 ## Copernicus Land Monitoring Services - Wetlands
-<iframe width="560" height="315" src="http://land.copernicus.eu/pan-european/high-resolution-layers/wetlands" frameborder="-1" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://land.copernicus.eu/pan-european/high-resolution-layers/wetlands" frameborder="-1" allowfullscreen></iframe>
 
 --- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Inundation and hydroperiod
