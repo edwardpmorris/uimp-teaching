@@ -3,16 +3,8 @@ title: 'What  can  Copernicus  do  for  you?'
 subtitle: '  Earth  observation  to  support coastal wetland services'
 font-import: 'https://fonts.googleapis.com/css?family=Fira+Sans'
 font-family: 'Fira Sans'
-author:
-- Edward P. Morris (UCA-CEIMAR)
-#- company: University of Cadiz
-#  github: https://github.com/edwardpmorris
-#  name: Edward P. Morris
-#  twitter: '@EdwardPMorris'
-#  www: http://rnm214.uca.es/CV/emorris/cvepmorris
-#- company: NIOZ
-#  name: Bas Oteman
-date: "UIMP Summer Course 7th July 2016"
+author: Edward P. Morris (UCA-CEIMAR)
+job:  Climate change in coastal wetlands - UIMP Sevilla - 7th July 2016.
 logo        : UCA-ceimar-FAST-logo-1100-198-transparent.png
 biglogo     : FAST_ENGLISHLOW.jpg
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
