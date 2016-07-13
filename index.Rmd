@@ -317,16 +317,26 @@ ONLY HTTPS SITES NOW WORK ON GH-PAGES
 <!<iframe width="560" height="315" src="https://www.copernicus.eu/main/services" frameborder="-1" allowfullscreen></iframe>
 -->
 <div>
-<pw><a href="http://www.copernicus.eu/main/services"><img alt="copernicus-services-page.png" width=100% src="assets/img/copernicus-services-page.png"></a><br>"<a href="http://www.copernicus.eu/main/services">http://www.copernicus.eu/main/services</a>.</pw>
+<pw><a href="http://www.copernicus.eu/main/services"><img alt="copernicus-services-page.png" width=100% src="assets/img/copernicus-services-page.png"></a><a href="http://www.copernicus.eu/main/services">http://www.copernicus.eu/main/services</a></pw>
 </div> 
 
 --- .class1 #id5
 ## Copernicus - Sentinel Online
+<!--
 <iframe width="560" height="315" src="https://sentinels.copernicus.eu/web/sentinel/home" frameborder="-1" allowfullscreen></iframe>
+-->
+<div>
+<pw><a href="https://sentinels.copernicus.eu/web/sentinel/home"><img alt="sentinel-online.png" width=100% src="assets/img/sentinel-online.png"></a><a href="https://sentinels.copernicus.eu/web/sentinel/home">https://sentinels.copernicus.eu/web/sentinel/home</a></pw>
+</div> 
 
 --- .class1 #id5
 ## Copernicus - ESA's Sentinel SciHub
+<!--
 <iframe width="560" height="315" src="https://scihub.copernicus.eu/dhus/#/home" frameborder="-1" allowfullscreen></iframe>
+-->
+<div>
+<pw><a href="https://scihub.copernicus.eu/dhus/#/home"><img alt="sentinel-scihub.png" width=100% src="assets/img/sentinel-scihub.png"></a><a href="https://scihub.copernicus.eu/dhus/#/home">https://scihub.copernicus.eu/dhus/#/home</a></pw>
+</div>
 
 --- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
 ## Wetland applications
