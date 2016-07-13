@@ -343,7 +343,12 @@ ONLY HTTPS SITES NOW WORK ON GH-PAGES
 
 --- .class1 #id5
 ## Copernicus Land Monitoring Services - Wetlands
+<!--
 <iframe width="560" height="315" src="https://land.copernicus.eu/pan-european/high-resolution-layers/wetlands" frameborder="-1" allowfullscreen></iframe>
+-->
+<div>
+<pw><a href="http://land.copernicus.eu/pan-european/high-resolution-layers/wetlands"><img alt="copernicus-land-wetland.png" width=100% src="assets/img/copernicus-land-wetland.png"></a><a href="http://land.copernicus.eu/pan-european/high-resolution-layers/wetlands">http://land.copernicus.eu/pan-european/high-resolution-layers/wetlands</a></pw>
+</div>
 
 --- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Inundation and hydroperiod
@@ -380,7 +385,7 @@ ONLY HTTPS SITES NOW WORK ON GH-PAGES
 --- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Inundation and Carbon fluxes
 
-<div>
+<div style="position: absolute; left: 210px; top:150px;">
 <pw><a href="http://digital.csic.es/handle/10261/72209"><img alt="Morris_Air-water-carbon-fluxes_ASLO2013_handout.gif" src="assets/img/Morris_Air-water-carbon-fluxes_ASLO2013_handout.gif" width=700px style="margin:10px 0px"> </a>
 <br><a href="http://digital.csic.es/handle/10261/72209">Morris et al. 2013 http://digital.csic.es/handle/10261/72209.</a>
 </pw>
@@ -389,7 +394,7 @@ ONLY HTTPS SITES NOW WORK ON GH-PAGES
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Inundation and Carbon fluxes
 
-<div>
+<div style="position: absolute; left: 210px; top:150px;">
 <pw><a href="http://digital.csic.es/handle/10261/72209"><img alt="slide16_Morris_Air-water-carbon-fluxes_ASLO2013_handout.png" src="assets/img/slide16_Morris_Air-water-carbon-fluxes_ASLO2013_handout.png" width=700px style="margin:10px 0px"> </a>
 <br><a href="http://digital.csic.es/handle/10261/72209">Morris et al. 2013 http://digital.csic.es/handle/10261/72209.</a>
 </pw>
@@ -398,16 +403,20 @@ ONLY HTTPS SITES NOW WORK ON GH-PAGES
 --- .class1 #id5 
 ## Wetland applications - Land types
 
-<div>
-<pw><iframe scrolling="yes" src="http://mapea-sigc.juntadeandalucia.es/?layers=WMS*Limites provinciales de Andalucia*http://www.ideandalucia.es/wms/mta400v_2008?*Division_Administrativa*false,WMS*Ortofoto Andalucia 2007*http://www.ideandalucia.es/wms/ortofoto2007?*oca10_2007*false,WMS_FULL*http://www.juntadeandalucia.es/medioambiente/mapwms/REDIAM_unidades_fisionomicas_paisaje_2009?*true,WMS*Nucleos de Poblacion*http://www.ideandalucia.es/wms/mta100v_2005?*Nucleos_de_Poblacion*true,WMS*Limites provinciales de Andalucia*http://www.ideandalucia.es/wms/mta400v_2008?*Division_Administrativa*true&amp;controls=mouse,panzoombar,layerswitcher,navtoolbar,measurebar&amp;getfeatureinfo=gml" frameborder="2" height="560" width="900"></iframe>
-<a href=http://www.juntadeandalucia.es/medioambiente/mapwms/REDIAM_unidades_fisionomicas_paisaje_2009?>
-REDIAM - WMS Unidades fisionómicas de paisaje para el año 2009</a>
-</pw></div>
+<!--
+<iframe scrolling="yes" src="http://mapea-sigc.juntadeandalucia.es/?layers=WMS*Limites provinciales de Andalucia*http://www.ideandalucia.es/wms/mta400v_2008?*Division_Administrativa*false,WMS*Ortofoto Andalucia 2007*http://www.ideandalucia.es/wms/ortofoto2007?*oca10_2007*false,WMS_FULL*http://www.juntadeandalucia.es/medioambiente/mapwms/REDIAM_unidades_fisionomicas_paisaje_2009?*true,WMS*Nucleos de Poblacion*http://www.ideandalucia.es/wms/mta100v_2005?*Nucleos_de_Poblacion*true,WMS*Limites provinciales de Andalucia*http://www.ideandalucia.es/wms/mta400v_2008?*Division_Administrativa*true&amp;controls=mouse,panzoombar,layerswitcher,navtoolbar,measurebar&amp;getfeatureinfo=gml" frameborder="2" height="560" width="900"></iframe>
+-->
+
+<div style="position: absolute; left: 50px; top:120px;">
+<pw><a href="http://www.juntadeandalucia.es/medioambiente/mapwms/REDIAM_unidades_fisionomicas_paisaje_2009?"><img alt="rediam-land-types.png" src="assets/img/rediam-land-types.png" width=95% style="margin:10px 0px"> </a>
+<br><a href=http://www.juntadeandalucia.es/medioambiente/mapwms/REDIAM_unidades_fisionomicas_paisaje_2009?>REDIAM - WMS Unidades fisionómicas de paisaje para el año 2009</a>
+</pw>
+</div>
 
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Sentinels
 
-<div>
+<div style="position: absolute; left: 150px; top:110px;">
 <pw><a href="http://www.fast-space-project.eu"><img alt="cadiz_multicolor.png" src="assets/img/cadiz_multicolor.png" width=750px style="margin:10px 0px"> </a>
 <br><a href="http://www.fast-space-project.eu">http://www.fast-space-project.eu</a>
 </pw>
@@ -416,7 +425,7 @@ REDIAM - WMS Unidades fisionómicas de paisaje para el año 2009</a>
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Intertidal elevation
 
-<div>
+<div style="position: absolute; left: 150px; top:110px;">
 <pw><a href="http://www.fast-space-project.eu"><img alt="intertidal-elevation-CadizBay.png" src="assets/img/intertidal-elevation-CadizBay.png" width=780px style="margin:10px 0px"> </a>
 <br><a href="http://www.fast-space-project.eu">http://www.fast-space-project.eu</a>
 </pw>
@@ -425,7 +434,7 @@ REDIAM - WMS Unidades fisionómicas de paisaje para el año 2009</a>
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Impact of vegetation on coastal flood risk
 
-<div>
+<div style="position: absolute; left: 210px; top:150px;">
 <pw><a href="http://www.fast-space-project.eu/index.php/services"><img alt="diagram_MISAFE_modes2.png" src="assets/img/diagram_MISAFE_modes2.png" width=620px style="margin:10px 0px"> </a>
 <br><a href="http://www.fast-space-project.eu/index.php/services">MI-SAFE services - FAST project</a>.</pw>
 </div>
@@ -433,8 +442,8 @@ REDIAM - WMS Unidades fisionómicas de paisaje para el año 2009</a>
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Wetland applications - Impact of vegetation on coastal flood risk
 
-<div>
-<pw><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool"><img alt="misafe_educational_diagram.png" src="assets/img/misafe_educational_diagram.png" width=620px style="margin:10px 0px"> </a>
+<div style="position: absolute; left: 180px; top:150px;">
+<pw><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool"><img alt="misafe_educational_diagram.png" src="assets/img/misafe_educational_diagram.png" width=680px style="margin:10px 0px"> </a>
 <br><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool">Science behind MI-SAFE tool - FAST project</a>.</pw>
 </div>
 
@@ -444,7 +453,7 @@ REDIAM - WMS Unidades fisionómicas de paisaje para el año 2009</a>
 
 ### Protype MI-SAFE web-app - http://fast.openearth.eu/
 
-<div>
+<div style="position: absolute; left: 180px; top:225px;">
 <pw><a href="http://fast.openearth.eu/"><img alt="In_Action2.jpg" src="assets/img/In_Action2.jpg" width=750px style="margin:10px 0px"> </a>
 <br><a href="http://fast.openearth.eu/">MI-SAFE web-app - FAST project</a>.</pw>
 </div>
