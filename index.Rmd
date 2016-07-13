@@ -38,11 +38,10 @@ knit        : slidify::knit2slides
 
 --- .class1 #id1 bg:black;
 
-
-<iframe src="https://www.youtube.com/embed/gF9UlTYR5d0?autoplay=1;controls=0&amp;showinfo=0&amp;showinfo=0&amp;rel=0" width="854" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://stuffin.space/" width="854" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <div style="position: absolute; left: 200px; top:625px; z-index:10; font-size:14px">
-    <p>https://youtu.be/gF9UlTYR5d0</p>
+    <p>James Yoder - http://stuffin.space/</p>
 </div>
 
 --- .class1 #id1 bg:black;
@@ -304,13 +303,140 @@ Active radar (SAR):
 + [Moreira, A., Prats-Iraola, P., Younis, M., Krieger, G., Hajnsek, I., & Papathanassiou, K. P. (2013). A tutorial on synthetic aperture radar. Geoscience and Remote Sensing Magazine, IEEE, 1(1), 6-43.](http://elib.dlr.de/82313/1/SAR-Tutorial-March-2013.pdf)
 + [SAREDU](https://saredu.dlr.de/); full open-access course on SAR by [DLR](http://www.dlr.de)
 
+
+--- .segue #id4 bg:url(assets/img/background_copernicus_logo.png);background-size:cover;
+## Copernicus Services
+
+--- .class1 #id5
+## Copernicus Services
+<iframe width="560" height="315" src="http://www.copernicus.eu/main/services" frameborder="-1" allowfullscreen></iframe>
+
+--- .class1 #id5
+## Copernicus - Sentinel Online
+<iframe width="560" height="315" src="https://sentinels.copernicus.eu/web/sentinel/home" frameborder="-1" allowfullscreen></iframe>
+
+--- .class1 #id5
+## Copernicus - ESA's Sentinel SciHub
+<iframe width="560" height="315" src="https://scihub.copernicus.eu/dhus/#/home" frameborder="-1" allowfullscreen></iframe>
+
+--- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
+## Wetland applications
+
+--- .class1 #id5
+## Copernicus Land Monitoring Services - Wetlands
+<iframe width="560" height="315" src="http://land.copernicus.eu/pan-european/high-resolution-layers/wetlands" frameborder="-1" allowfullscreen></iframe>
+
+--- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Inundation and hydroperiod
+
+*** =right
++ <pw><a href="http://www.ebd.csic.es/web/last/inicio"><img alt="mean-hydroperiod-1976-2014_donana_last-ebd.png" src="assets/img/Logo LAST.gif" width=400px style="margin:10px 0px"> </a>
++ Long-term hydroperiods, turbidity
++ NDVI, habitat mapping, invasive species
++ Calibration/Validation activities, UAVs
++ [EcoPotential](http://www.ecopotential-project.eu/) - H2020 project improving future ecosystem benefits through earth observations
+
+*** =left
+<div>
+<pw><a href="http://www.ebd.csic.es/ricardo/publi/Globwetland1.pdf"><img alt="mean-hydroperiod-1976-2014_donana_last-ebd.png" src="assets/img/mean-hydroperiod-1976-2014_donana_last-ebd.png" width=400px style="margin:10px 0px"> </a>
+<br><a href="http://www.ebd.csic.es/ricardo/publi/Globwetland1.pdf">Díaz-Delgado et al. 2006</a>.</pw>
+</div>
+
+--- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Inundation and hydroperiod
+
+*** =left
+<div>
+<pw><a href="http://www.tdx.cat/handle/10803/145064"><img alt="flood_mapping_sar.png" src="assets/img/flood_mapping_sar.png" width=500px style="margin:10px 0px"> </a>
+<br><a href="http://www.tdx.cat/handle/10803/145064">Spaceborne SAR imagery for monitoring the inundation in the Doñana wetlands - Belén Martí Cardona</a>.<pw><a href="http://www.upc.edu/"><img alt="www.tdx.cat.jpeg" src="assets/img/www.tdx.cat.jpeg" width=100px style="margin:10px 0px"> </a></pw>
+</div>
+
+*** =right
+
++ C-band SAR
++ Specialised terrain based filtering techniques
++ Now Sentinel 1 (A+B) available! 6-12 day revist time.
++ See [special issue on Remote Sensing in Wetlands](http://www.mdpi.com/journal/remotesensing/special_issues/wetland)
+
+--- &twocol .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Inundation and Carbon fluxes
+
+<div>
+<pw><a href="http://digital.csic.es/handle/10261/72209"><img alt="Morris_Air-water-carbon-fluxes_ASLO2013_handout.gif" src="assets/img/Morris_Air-water-carbon-fluxes_ASLO2013_handout.gif" width=700px style="margin:10px 0px"> </a>
+<br><a href="http://digital.csic.es/handle/10261/72209">Morris et al. 2013 http://digital.csic.es/handle/10261/72209.</a>
+</pw>
+</div>
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Inundation and Carbon fluxes
+
+<div>
+<pw><a href="http://digital.csic.es/handle/10261/72209"><img alt="slide16_Morris_Air-water-carbon-fluxes_ASLO2013_handout.png" src="assets/img/slide16_Morris_Air-water-carbon-fluxes_ASLO2013_handout.png" width=700px style="margin:10px 0px"> </a>
+<br><a href="http://digital.csic.es/handle/10261/72209">Morris et al. 2013 http://digital.csic.es/handle/10261/72209.</a>
+</pw>
+</div>
+
+--- .class1 #id5 
+## Wetland applications - Land types
+
+<div>
+<pw><iframe scrolling="yes" src="http://mapea-sigc.juntadeandalucia.es/?layers=WMS*Limites provinciales de Andalucia*http://www.ideandalucia.es/wms/mta400v_2008?*Division_Administrativa*false,WMS*Ortofoto Andalucia 2007*http://www.ideandalucia.es/wms/ortofoto2007?*oca10_2007*false,WMS_FULL*http://www.juntadeandalucia.es/medioambiente/mapwms/REDIAM_unidades_fisionomicas_paisaje_2009?*true,WMS*Nucleos de Poblacion*http://www.ideandalucia.es/wms/mta100v_2005?*Nucleos_de_Poblacion*true,WMS*Limites provinciales de Andalucia*http://www.ideandalucia.es/wms/mta400v_2008?*Division_Administrativa*true&amp;controls=mouse,panzoombar,layerswitcher,navtoolbar,measurebar&amp;getfeatureinfo=gml" frameborder="2" height="560" width="900"></iframe>
+<a href=http://www.juntadeandalucia.es/medioambiente/mapwms/REDIAM_unidades_fisionomicas_paisaje_2009?>
+REDIAM - WMS Unidades fisionómicas de paisaje para el año 2009</a>
+</pw></div>
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Sentinels
+
+<div>
+<pw><a href="http://www.fast-space-project.eu"><img alt="cadiz_multicolor.png" src="assets/img/cadiz_multicolor.png" width=750px style="margin:10px 0px"> </a>
+<br><a href="http://www.fast-space-project.eu">http://www.fast-space-project.eu</a>
+</pw>
+</div>
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Intertidal elevation
+
+<div>
+<pw><a href="http://www.fast-space-project.eu"><img alt="intertidal-elevation-CadizBay.png" src="assets/img/intertidal-elevation-CadizBay.png" width=780px style="margin:10px 0px"> </a>
+<br><a href="http://www.fast-space-project.eu">http://www.fast-space-project.eu</a>
+</pw>
+</div>
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Impact of vegetation on coastal flood risk
+
+<div>
+<pw><a href="http://www.fast-space-project.eu/index.php/services"><img alt="diagram_MISAFE_modes2.png" src="assets/img/diagram_MISAFE_modes2.png" width=620px style="margin:10px 0px"> </a>
+<br><a href="http://www.fast-space-project.eu/index.php/services">MI-SAFE services - FAST project</a>.</pw>
+</div>
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Impact of vegetation on coastal flood risk
+
+<div>
+<pw><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool"><img alt="misafe_educational_diagram.png" src="assets/img/misafe_educational_diagram.png" width=620px style="margin:10px 0px"> </a>
+<br><a href="https://publicwiki.deltares.nl/display/OET/The+Science+behind+the+MI-Safe+tool">Science behind MI-SAFE tool - FAST project</a>.</pw>
+</div>
+
+
+--- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
+## Wetland applications - Impact of vegetation on coastal flood risk
+
+### Protype MI-SAFE web-app - http://fast.openearth.eu/
+
+<div>
+<pw><a href="http://fast.openearth.eu/"><img alt="In_Action2.jpg" src="assets/img/In_Action2.jpg" width=750px style="margin:10px 0px"> </a>
+<br><a href="http://fast.openearth.eu/">MI-SAFE web-app - FAST project</a>.</pw>
+</div>
+
 --- .segue #id4 bg:url(assets/img/background_scientist_marsh.png);background-size:cover;
 ## How to access remote sensing data
 
 --- .class1 #id5 bg:url(assets/img/background_white_scientist_tablet.png);background-size:cover;
 ## Data availability
 
-```{r, echo=FALSE,results='asis'}
+```{r table_sensors, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
 tb <- read.csv2("assets/data/OA-earth-observation-data.csv")
 require(knitr)
 kable(x=tb, format="html", digits = getOption("digits"), row.names = NA, col.names = c("Name",	"Abbreviation",	"Resolution (m)",	"Availability",	"Return Interval",	"Type*"	,"Platform"), 
@@ -606,11 +732,12 @@ Packages and frameworks:
 <p>
 <img alt=Flag_of_Europe.svg" src="assets/img/Flag_of_Europe.svg" style="height:150px;margin:10px 10px;float:left"> The research leading to these results has received funding from the European Union Seventh Framework Programme (FP7/2007-2013) under grant agreement n° 607131. All views presented are those of the author’s, the European Union is not liable for any use that may be made of the information contained therein.
 </p>
-+ The [FAST project](www.fast-space-project.eu) team for support and contributions.
++ The [FAST project](http://www.fast-space-project.eu) team for support and contributions.
 + Landsat data courtesy of [USGS](http://www.usgs.gov/).
 + This presentation includes [Copernicus](http://www.copernicus.eu/) Sentinel data 2015.
-+ Videos from [NASA](https://www.nasa.gov/) and [ESA](www.esa.int) [YouTube](www.youtube.com) channels.
-+ Comic design and production; [The Pilot Dog](www.thepilotdog.com)
++ Videos from [ESA](http://www.esa.int) [YouTube](http://www.youtube.com) channels.
++ ['Stuff in Space'](http://stuffin.space) by James Yoder. 
++ Comic design and production; [The Pilot Dog](http://www.thepilotdog.com)
 + Slide deck made using [slidify](http://slidify.org/)
 
 --- &twocol .thankyou #id5 bg:url(assets/img/background_white_scientist_screen.png);background-size:cover;
@@ -624,163 +751,11 @@ Packages and frameworks:
 
 Get this talk:
 
-+ slides: http://edwardpmorris.github.io/dsd_fast_teaching
-+ source: https://github.com/edwardpmorris/dsd_fast_teaching
++ slides: http://edwardpmorris.github.io/uimp_teaching
++ source: https://github.com/edwardpmorris/uimp_teaching
 
 *** =right
 
 <div>
 <pw><a data-flickr-embed="true"  href="https://www.flickr.com/photos/125003624@N04/16775340361/in/album-72157645545234996/" title="Foreshore Assessment using Space Technology project comic strip (EN)"><img src="assets/img/FAST_ENGLISHLOW.jpg" width="284" height="640" alt="Foreshore Assessment using Space Technology project comic strip (EN)"></a></pw>
 </div>
-
---- .segue #id5 bg:url(assets/img/background_endusers.png);background-size:cover;background-color:#97bf0d;
-## Now your turn...
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Using Sentinel 1 toolbox (S1TBX) to get information about coastal systems
-### Introduction to the Sentinel 1 toolbox (S1TBX)
-
-This workshop will cover the basics of working with S1TBX to process Sentinel-1 data:
-
-+ open S1A-IW-GRDH product
-+ basic pre-processing
-+ export data
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Using the Graph Builder in S1TBX
-
-+ use the graph builder to save your workflow.
-+ take a look at the graph XML format.
-+ edit the XML so as apply different types of speckle filter and multilooking, compare results.
-+ set up thresholding of the image using band-math and extract 'water'.
-+ run a basic classification and compare to the threshold result.
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Open S1A-IW-GRDH product
-
-`File` > `Open Product` OR `Import Raster Data` > `SAR data` > `SENTINEL-1`
-
-<div>
-<img alt=S1-open.png src="assets/img/S1-open.png" width=850px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Examine the S1A-IW-GRDH product
-
-Products View expand structure
-
-Open window to display raw data (RIGHT CLICK BAND > `Open Image Window`)
-
-<div>
-<img alt=S1-open-image.png src="assets/img/S1-open-image.png" width=850px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Subset S1A-IW-GRDH product
-
-Zoom in on area of interest; note image is mirrored
-
-`Raster` > `Subset` OR RIGHT CLICK ON IMAGE > `Spatial Subset From View`
-
-<div>
-<img alt=S1-subset.png src="assets/img/S1-subset.png" width=850px style="margin:10px 0px">
-</div>
-
-<div  style="position: absolute; left: 400px; top:400px;">
-<img alt=S1-spatial-subset.png src="assets/img/S1-spatial-subset.png" width=400px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Apply at-sensor and top-of-atmosphere calibration
-
-`SAR Processing` > `Radiometric` > `Calibrate`
-
-<div>
-<img alt=S1-calibrate.png src="assets/img/S1-calibrate.png" width=850px style="margin:10px 0px">
-</div>
-
-<div  style="position: absolute; left: 450px; top:350px;">
-<img alt=S1-calibrate-options.png src="assets/img/S1-calibrate-options.png" width=400px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Apply a 'speckle' filter
-
-`SAR Processing` > `Speckle Filtering`
-
-<div>
-<img alt=S1-speckle-filter.png src="assets/img/S1-speckle-filter.png" width=850px style="margin:10px 0px">
-</div>
-
-<div  style="position: absolute; left: 450px; top:350px;">
-<img alt=S1-speckle-filter-options.png src="assets/img/S1-speckle-filter-options.png" width=400px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Apply a geometric correction
-
-`SAR Processing` > `Geometric` > `Elipsoid Correction`
-
-<div>
-<img alt=S1-elipsoid.png src="assets/img/S1-elipsoid.png" width=850px style="margin:10px 0px">
-</div>
-
-<div  style="position: absolute; left: 600px; top:320px;">
-<img alt=S1-speckle-options.png src="assets/img/S1-elipsoid-options.png" width=400px style="margin:10px 0px">
-</div>
-
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Convert to decibels
-
-`Utilities` > `Dataset Conversion` > `Linear to/from dB`
-
-`Raster` > `Dataset Conversion` > `Linear to/from dB`
-
-<div>
-<img alt=S1-S1-linearTodB.png src="assets/img/S1-linearTodB.png" width=850px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Examine the pre-processed product
-
-Look at a profile from water to land:
-
-`Analysis` > `Profile Plot`
-
-Add a vector layer:
-
-`Vector` > `Import` OR Line Drawing Tool
-
-<div style="position: absolute; left: 600px; top:120px;">
-<img alt=S1-profile.png src="assets/img/S1-profile.png" width=400px style="margin:10px 0px">
-</div>
-
-Look at a histogram for the scene:
-
-`Analysis` > `Histogram`
-
-<div style="position: absolute; left: 100px; top:450px;">
-<img alt=S1-histogram.png src="assets/img/S1-histogram.png" width=400px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Export the pre-processed product
-
-Choose your prefered export format
-
-`File` > `Export Raster Data` > `NetCDF4-CF`
-
-<div >
-<img alt=S1-export.png src="assets/img/S1-export.png" width=900px style="margin:10px 0px">
-</div>
-
---- .class1 #id5 bg:url(assets/img/background_white_endusers.png);background-size:cover;
-## Using the Graph Builder in S1TBX
-
-`Tools` > `Graph Builder`
-
-<div >
-<img alt=S1-graph-builder.png src="assets/img/S1-graph-builder.png" width=900px style="margin:10px 0px">
-</div>
-
