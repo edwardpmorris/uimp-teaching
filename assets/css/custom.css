@@ -26,6 +26,12 @@ body{
   font-family: 'Fira Sans', "Trebuchet MS", Helvetica, sans-serif
 }
 
+.segue hgroup h2 {
+  font-family: 'Fira Sans', "Trebuchet MS", Helvetica, sans-serif
+}
+  
+}
+
 /* LOGO */
 aside.gdbar {
   height: 200px; /* 97 */
