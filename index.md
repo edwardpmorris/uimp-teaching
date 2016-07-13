@@ -13,7 +13,7 @@ author:
 #- company: NIOZ
 #  name: Bas Oteman
 date: "UIMP Summer Course 7th July 2016"
-logo        : UCA-ceimar-NIOZ-FAST-logo-1100-198-transparent.png
+logo        : UCA-ceimar-FAST-logo-1100-198-transparent.png
 biglogo     : FAST_ENGLISHLOW.jpg
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : prettify      # {highlight.js, prettify, highlight}
