@@ -38,7 +38,18 @@ knit        : slidify::knit2slides
 
 --- .class1 #id1 bg:black;
 
+<!--
+ONLY HTTPS SITES NOW WORK ON GH-PAGES
 <iframe src="http://stuffin.space/" width="854" height="480" frameborder="-1" allowfullscreen></iframe>
+-->
+
+<div>
+<pw>
+  <a href="http://stuffin.space/">
+  <img alt="stuff-in-space.png" width=800px src="assets/img/stuff-in-spac.png"></a>
+  <br>"<a href="https://commons.wikimedia.org/wiki/File:Electromagneticwave3D.gif#/media/File:Electromagneticwave3D.gif">Stuff in Space</a>" by <a href="http://stuffin.space">James Yoder</a>.</pw>
+</div> 
+
 
 <div style="position: absolute; left: 200px; top:625px; z-index:10; font-size:14px">
     <p>James Yoder - http://stuffin.space/</p>
