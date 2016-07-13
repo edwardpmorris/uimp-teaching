@@ -29,7 +29,9 @@ body{
 .segue hgroup h2 {
   font-family: 'Fira Sans', "Trebuchet MS", Helvetica, sans-serif
 }
-  
+
+slide:not(.segue) h2 {
+  font-family: 'Fira Sans', "Trebuchet MS", Helvetica, sans-serif
 }
 
 /* LOGO */
